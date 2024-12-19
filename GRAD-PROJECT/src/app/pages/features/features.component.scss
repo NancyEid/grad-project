@@ -1,0 +1,163 @@
+.first {
+  background-color: #F9FFFE;
+  width: 100%;
+  max-height: 100vh;
+  font-family: "Inter", sans-serif;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .Intro {
+      h1 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 68.98px;
+        color: #205149;
+      }
+
+      p {
+        max-width: 650px;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26.63px;
+      }
+    }
+  }
+}
+
+.second {
+  background-color: #EFF5F4;
+  font-family: "Inter", sans-serif;
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 150px;
+
+    .Det {
+      h1 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 38.73px;
+        color: #205149;
+        margin-bottom: 20px;
+      }
+
+      p {
+        max-width: 550px;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26.63px;
+      }
+    }
+
+  }
+}
+
+.third {
+  background-color: #F9FFFE;
+  font-family: "Inter", sans-serif;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .Third {
+      margin-top: 50px;
+      margin-right: 50px;
+      position: relative;
+
+      h1 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 38.73px;
+        color: #205149;
+        margin-bottom: 20px;
+      }
+
+      p {
+        max-width: 600px;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26.63px;
+      }
+
+    }
+    .main-image {
+      background-color: #40A392;
+      width: 500px;
+      margin-right: -62.5px;
+    }
+
+  }
+}
+.fourth {
+  background-color: #F9FFFE;
+  font-family: "Inter", sans-serif;
+  height: 100vh;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .Fourth {
+      margin-top: 50px;
+      margin-right: 50px;
+
+      h1 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 38.73px;
+        color: #205149;
+        margin-bottom: 20px;
+      }
+
+      p {
+        max-width: 630px;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26.63px;
+      }
+    }
+
+  }
+}
+.fifth {
+  background-color: #E0EBEA;
+  font-family: "Inter", sans-serif;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .Fifth {
+      margin-top: 50px;
+      margin-right: 50px;
+      position: relative;
+
+      h1 {
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 38.73px;
+        color: #205149;
+        margin-bottom: 20px;
+      }
+
+      p {
+        max-width: 630px;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 26.63px;
+      }
+
+    }
+
+
+  }
+}
